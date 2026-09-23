@@ -12,3 +12,4 @@ D:\FundamentosProgramacion\csharp\repetitiva\array\obj\Debug\net10.0\refint\arra
 D:\FundamentosProgramacion\csharp\repetitiva\array\obj\Debug\net10.0\array.pdb
 D:\FundamentosProgramacion\csharp\repetitiva\array\obj\Debug\net10.0\array.genruntimeconfig.cache
 D:\FundamentosProgramacion\csharp\repetitiva\array\obj\Debug\net10.0\ref\array.dll
+D:\FundamentosProgramacion\csharp\repetitiva\array\obj\Debug\net10.0\array.sourcelink.json

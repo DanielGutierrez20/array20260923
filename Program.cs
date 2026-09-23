@@ -1,6 +1,4 @@
-﻿
-
-static void ImprimirArreglo(int[] notas)
+﻿static void ImprimirArreglo(int[] notas)
 {
     for (int i = 0; i < notas.Length; i++)
     {
@@ -8,15 +6,12 @@ static void ImprimirArreglo(int[] notas)
     }
 }
 
-static void SumarArreglo(int[] notas)
+static void PromedioArreglo(int[] notas)
 {
     int suma = notas.Sum();
-    Console.WriteLine($"Suma de las notas: {suma}");
+    Console.WriteLine($"Promedio de las notas: {(double)suma/notas.Length:F2}");
 }
 
 int[] notas = {15, 18, 12, 17, 20};
 ImprimirArreglo(notas);
-SumarArreglo(notas);
-
-//int[] notas2 = {2, 4, 9};
-//ImprimirArreglo(notas2);
+PromedioArreglo(notas);
