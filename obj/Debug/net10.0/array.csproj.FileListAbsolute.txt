@@ -1,0 +1,14 @@
+D:\FundamentosProgramacion\csharp\repetitiva\array\bin\Debug\net10.0\array.exe
+D:\FundamentosProgramacion\csharp\repetitiva\array\bin\Debug\net10.0\array.deps.json
+D:\FundamentosProgramacion\csharp\repetitiva\array\bin\Debug\net10.0\array.runtimeconfig.json
+D:\FundamentosProgramacion\csharp\repetitiva\array\bin\Debug\net10.0\array.dll
+D:\FundamentosProgramacion\csharp\repetitiva\array\bin\Debug\net10.0\array.pdb
+D:\FundamentosProgramacion\csharp\repetitiva\array\obj\Debug\net10.0\array.GeneratedMSBuildEditorConfig.editorconfig
+D:\FundamentosProgramacion\csharp\repetitiva\array\obj\Debug\net10.0\array.AssemblyInfoInputs.cache
+D:\FundamentosProgramacion\csharp\repetitiva\array\obj\Debug\net10.0\array.AssemblyInfo.cs
+D:\FundamentosProgramacion\csharp\repetitiva\array\obj\Debug\net10.0\array.csproj.CoreCompileInputs.cache
+D:\FundamentosProgramacion\csharp\repetitiva\array\obj\Debug\net10.0\array.dll
+D:\FundamentosProgramacion\csharp\repetitiva\array\obj\Debug\net10.0\refint\array.dll
+D:\FundamentosProgramacion\csharp\repetitiva\array\obj\Debug\net10.0\array.pdb
+D:\FundamentosProgramacion\csharp\repetitiva\array\obj\Debug\net10.0\array.genruntimeconfig.cache
+D:\FundamentosProgramacion\csharp\repetitiva\array\obj\Debug\net10.0\ref\array.dll
